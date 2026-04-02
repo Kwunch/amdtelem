@@ -19,13 +19,13 @@ interfaces and displays it in a live-updating terminal UI powered by ratatui.
 ## Dashboard
 ```
 ┌AMD Radeon Telemetry──────────────────────────────────────┐
-│GPU           | Radeon RX 7900 XT/7900 XTX/7900 GRE/7900M│
-│Temperatures  | Edge: 37.0°C  Junc: 49.0°C  Mem: 50.0°C  │
+│GPU           | Radeon RX 7900 XT/7900 XTX/7900 GRE/7900M │
+│Temperatures  | Edge: 37.0°C  Junc: 49.0°C  Mem: 50.0°C   │
 │Clocks        | SCLK:  85 MHz  MCLK: 772 MHz              │
 │Power         | Avg:  38.00W   SoC:  13.24W               │
-│Load          | GPU:    0%     VCN:    0%                  │
+│Load          | GPU:    0%     VCN:    0%                 │
 │Voltage       | VDDGFX: 629 mV  VDDNB: N/A                │
-│Fan           | RPM:    0 RPM                              │
+│Fan           | RPM:    0 RPM                             │
 │GEM Clients───────────────────────────────────────────────│
 │kgx (9032)  gnome-shell (3403)                            │
 └──────────────────────────────────────────────────────────┘
